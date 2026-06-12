@@ -32,17 +32,13 @@ Estou sempre em busca de novos conhecimentos na área de Desenvolvimento e Tecno
 
 - 🔭 Atualmente estou focado no desenvolvimento frontend e explorando projetos full-stack.
 - 💡 Apaixonado por aprendizado contínuo, trabalho em equipe e resolução de desafios complexos.
-- 🌎 Natural da Paraíba, Brasil.
+- 🌎 Natural da Brasilia-DF.
 
 ---
 
 ## 📫 Como entrar em contato comigo
 
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ks873102@gmail.com)
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5583996701820)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kennedy-silva-920920335/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ks873102@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5583996701820) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kennedy-silva-920920335/)
 ---
 
 <div align="center">
