@@ -46,5 +46,5 @@ Estou sempre em busca de novos conhecimentos na área de Desenvolvimento e Tecno
 ---
 
 <div align="center">
-  <img src="banner-programador.png" width="100%"/>
+  <img src="a_detailed_pixel_art_retro_style_illustration_of_a_1.png" width="100%"/>
 </div>
