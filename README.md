@@ -49,7 +49,7 @@ Gosto de aprender novas ferramentas, resolver problemas e transformar ideias em 
 </a>
 
 </div>
----
+
 
 <div align="center">
   <img src="a_detailed_pixel_art_retro_style_illustration_of_a_1.png" width="100%"/>
