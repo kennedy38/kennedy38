@@ -1,8 +1,8 @@
 <div align="center">
 
-### kennedy38 / README.md
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kode+Mono&pause=1000&color=F7F7F7&center=true&vCenter=true&width=900&lines=Olá,+desenvolvedores!+Bem-vindos+ao+meu+perfil!;Meu+nome+é+Kennedy;Tenho+27+anos;Sou+natural+de+Brasília+-+DF,+Brasil;Estudo+Análise+e+Desenvolvimento+de+Sistemas)
 
-# I'm 27 years old
+</div>
 
 </div>
 
