@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kode+Mono&pause=1000&color=F7F7F7&center=true&vCenter=true&width=900&lines=Olá,+desenvolvedores!+Bem-vindos+ao+meu+perfil!;Meu+nome+é+Kennedy+Oliveira;Tenho+27+anos;Sou+natural+de+Brasília+-+DF,+Brasil;Estudo+Análise+e+Desenvolvimento+de+Sistemas)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kode+Mono&pause=1000&color=F7F7F7&center=true&vCenter=true&width=900&lines=Olá,+desenvolvedores!+Bem-vindos+ao+meu+perfil!;Meu+nome+é+Kennedy+Oliveira!;Tenho+27+anos!;Sou+natural+de+Brasília+-+DF!,+Brasil;Estudo+Análise+e+Desenvolvimento+de+Sistemas!)
 
 </div>
 
@@ -35,7 +35,6 @@
 
 Sou Kennedy, tenho 27 anos e sou natural de Brasília - DF, Brasil.  
 Atualmente estudo **Análise e Desenvolvimento de Sistemas** e estou construindo minha trajetória na área de tecnologia.
-
 Tenho interesse em desenvolvimento web, especialmente frontend, e estou sempre buscando evoluir através de estudos, prática e novos projetos.  
 Gosto de aprender novas ferramentas, resolver problemas e transformar ideias em soluções funcionais.
 
