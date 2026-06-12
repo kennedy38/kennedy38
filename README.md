@@ -43,3 +43,8 @@ Estou sempre em busca de novos conhecimentos na área de Desenvolvimento e Tecno
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5583996701820)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kennedy-silva-920920335/)
+---
+
+<div align="center">
+  <img src="banner-programador.png" width="100%"/>
+</div>
